@@ -1,0 +1,28 @@
+{
+  "global": {
+    "globalBindingDataTestObj": [],
+    "globalAutoLayerMarkEnable": false
+  },
+  "15990d870d2": {
+    "guideLines": [
+      {
+        "type": "v",
+        "pos": -280
+      },
+      {
+        "type": "h",
+        "pos": -197
+      },
+      {
+        "type": "h",
+        "pos": -175
+      },
+      {
+        "type": "h",
+        "pos": -85
+      }
+    ],
+    "guideLinesEnabled": false,
+    "bindingDataTestObj": []
+  }
+}

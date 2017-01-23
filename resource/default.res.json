@@ -1,0 +1,244 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,map2_json",
+			"name": "preload"
+		},
+		{
+			"keys": "menu_jpg,Menu_exml,map_json,brick_jpg,grass_jpg,home_jpg,ice_jpg,water_jpg,iron_jpg,tank_2_png,tank_3_png,tank_4_png,tank_5_png,tank_6_png,tank_0_png,tank_1_png,bullet_png",
+			"name": "common"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "game_common/menu.jpg",
+			"type": "image",
+			"name": "menu_jpg"
+		},
+		{
+			"url": "game_skins/Menu.exml",
+			"type": "text",
+			"name": "Menu_exml"
+		},
+		{
+			"url": "game_common/map.json",
+			"type": "json",
+			"name": "map_json"
+		},
+		{
+			"url": "game_common/map.json",
+			"type": "json",
+			"name": "map2_json"
+		},
+		{
+			"url": "game_common/brick.jpg",
+			"type": "image",
+			"name": "brick_jpg"
+		},
+		{
+			"url": "game_common/grass.jpg",
+			"type": "image",
+			"name": "grass_jpg"
+		},
+		{
+			"url": "game_common/home.jpg",
+			"type": "image",
+			"name": "home_jpg"
+		},
+		{
+			"url": "game_common/ice.jpg",
+			"type": "image",
+			"name": "ice_jpg"
+		},
+		{
+			"url": "game_common/water.jpg",
+			"type": "image",
+			"name": "water_jpg"
+		},
+		{
+			"url": "game_common/iron.jpg",
+			"type": "image",
+			"name": "iron_jpg"
+		},
+		{
+			"url": "game_common/tank_2.png",
+			"type": "image",
+			"name": "tank_2_png"
+		},
+		{
+			"url": "game_common/tank_3.png",
+			"type": "image",
+			"name": "tank_3_png"
+		},
+		{
+			"url": "game_common/tank_4.png",
+			"type": "image",
+			"name": "tank_4_png"
+		},
+		{
+			"url": "game_common/tank_5.png",
+			"type": "image",
+			"name": "tank_5_png"
+		},
+		{
+			"url": "game_common/tank_6.png",
+			"type": "image",
+			"name": "tank_6_png"
+		},
+		{
+			"url": "game_common/tank_7.png",
+			"type": "image",
+			"name": "tank_7_png"
+		},
+		{
+			"url": "game_common/tank_8.png",
+			"type": "image",
+			"name": "tank_8_png"
+		},
+		{
+			"url": "game_common/tank_0.png",
+			"type": "image",
+			"name": "tank_0_png"
+		},
+		{
+			"url": "game_common/tank_1.png",
+			"type": "image",
+			"name": "tank_1_png"
+		},
+		{
+			"url": "game_common/bullet.png",
+			"type": "image",
+			"name": "bullet_png"
+		}
+	]
+}

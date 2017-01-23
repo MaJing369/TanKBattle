@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin width="480" height="480" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*" class="skins.AnimationSkin">
+	<w:Declarations>
+	</w:Declarations>
+	<e:Image id="image" source="menu_jpg" x="0" y="0" width="480" height="480"/>
+	<e:Button id="btnStart" label="" x="178" y="262" anchorOffsetX="0" width="139" anchorOffsetY="0" height="37" alpha="0"/>
+</e:Skin>
